@@ -9,4 +9,4 @@ def greet(name):
 print(greet("World"))
 
 # Add your drill completion note below this line:
-print("Drill completed by Luma Alazzeh")
+# Drill completed by Luma Alazzeh
